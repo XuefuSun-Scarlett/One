@@ -13,3 +13,6 @@ Use Lightroom or other photo editing program to process the entire timelapse seq
 2. Run the program
 3. The program will create two folders inside the original directory. One is Processed and the other is Final. All the slices will be saved in the Processed directory. The final image will be stored in the Final directory.
 4. Sit down and ENJOY
+
+# My Result
+![image](https://github.com/XuefuSun-Scarlett/One-Click-TimeSlice-Tool/blob/main/Final.jpg?raw=true)
